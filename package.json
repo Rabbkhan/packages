@@ -1,6 +1,6 @@
 {
-  "name": "pack-to-ui",
-  "version": "1.0.3",
+  "name": "pack-to-front",
+  "version": "1.0.44",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
